@@ -1,6 +1,6 @@
 # testing
 
-> just test
+https://yunastrian.github.io/Explore-Vue
 
 ## Build Setup
 
